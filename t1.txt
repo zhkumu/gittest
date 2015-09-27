@@ -7,3 +7,4 @@ this is remote update3
 this is win update2
 this is win update4
 this is win update6
+this is reset1
