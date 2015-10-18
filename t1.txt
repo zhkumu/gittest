@@ -9,4 +9,3 @@ this is win update4
 this is win update6
 this is reset2
 this is remote update4
-test push revert
